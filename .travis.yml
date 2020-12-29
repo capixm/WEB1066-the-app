@@ -3,6 +3,8 @@ install: "pip install -r requirements.txt"
 
 script:
   # Run ANSIBLE checks
+  # my own comment for testing purposes
+  # another comment for testing purposes
   # - ANSIBLE0008: Disabled for use of sudo warnings - to address
   # - ANSIBLE0011: Disabled for all tasks which should be named
   # - ANSIBLE0012: Disabled (should not change if nothings needs doing) - to address
